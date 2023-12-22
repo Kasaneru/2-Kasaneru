@@ -1,4 +1,5 @@
 % Place your solution here
+% Вариант 2. (доделаю сегодня)
 
 owns('Воронов', X).
 ismarried('Голубев', 0).
